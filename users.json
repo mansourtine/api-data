@@ -1,0 +1,26 @@
+[
+  {"id":1,"name":"Mansour TINE","avatar":"svg-1",
+  "bio":"I am developer and i really want to become an expert of JavaScript's framework.",
+  "birthDate":"1990-10-30T00:00:00",
+  "notes":[{"id":1,"title":"Pay back dinner","date":"2020-05-05T02:45:47.0805513Z"},
+    {"id":2,"title":"Buy flowers for birthday","date":"2020-05-17T02:45:47.0805696Z"},
+    {"id":3,"title":"Do something","date":"2020-05-27T02:45:47.080572Z"},
+    {"id":4,"title":"Make something","date":"2020-06-06T02:45:47.0805743Z"},
+    {"id":5,"title":"Be something","date":"2020-06-16T02:45:47.0805765Z"}]
+  },
+
+  {"id":2,"name":"Malick DIALLO","avatar":"svg-2",
+   "bio":"Developer AngularJs and Laravel.",
+   "birthDate":"1988-03-16T00:00:00","notes":[]
+  },
+
+  {"id":3,"name":"Boubacar SOW","avatar":"svg-3",
+    "bio":"Engineer of data, Expert of Flexcube.",
+    "birthDate":"1990-12-24T00:00:00","notes":[]
+  },
+
+  {"id":4,"name":"Baye Dame KHOUMA","avatar":"svg-4",
+    "bio":"Mobile Developer.",
+    "birthDate":"1993-05-16T00:00:00","notes":[]
+  }
+]
